@@ -7,7 +7,7 @@
 |0| Starting | `Modifier` | [Go](https://github.com/boiledCompose/0_Starting/blob/main/README.md)|
 |1| DiceRoller | `Remember`| [Go](https://github.com/boiledCompose/1_DiceRoller)|
 |2| Lemonade | `ButtonEvent` | [Go](https://github.com/boiledCompose/2_Digital-Lemonade) |
-|3| Tip Calculator| `State` | [Go](https://github.com/boiledCompose/3_Tip-Calculator) |
+|3| Tip Calculator| `State`, `State Hoisting` | [Go](https://github.com/boiledCompose/3_Tip-Calculator) |
 |4| Affirmation | | [Go](https://github.com/boiledCompose/4_AffirmationApp) |
 |5| Grid App | |[Go](https://github.com/boiledCompose/5_GridView)|
 |6| Woof | |[Go](https://github.com/boiledCompose/6_Woof)|
