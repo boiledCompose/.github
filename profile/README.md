@@ -11,8 +11,8 @@
 |4| Affirmation |`AutoTest`| [Go](https://github.com/boiledCompose/4_AffirmationApp) |
 |5| Grid App |`Lazy Layout`|[Go](https://github.com/boiledCompose/5_GridView)|
 |6| Woof |`MaterialTheme3`|[Go](https://github.com/boiledCompose/6_Woof)|
-|7| Woof-Animation | |[Go](https://github.com/boiledCompose/7_AnimatedWoof) |
-|8| Superheroes | |[Go](https://github.com/boiledCompose/8_superheroes)|
+|7| Woof-Animation | `Animation` |[Go](https://github.com/boiledCompose/7_AnimatedWoof) |
+|8| Superheroes |`Scaffold`, `StatusBar`|[Go](https://github.com/boiledCompose/8_superheroes)|
 |9| month | |[Go](https://github.com/boiledCompose/9_month)|
 |10| Dessert Clicker | |[Go](https://github.com/boiledCompose/10_Dessert-Clicker)|
 |11| Unscramble | |[Go](https://github.com/boiledCompose/11_Unscramble)|
