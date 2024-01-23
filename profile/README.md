@@ -10,7 +10,7 @@
 |3| Tip Calculator| `State`, `State Hoisting` | [Go](https://github.com/boiledCompose/3_Tip-Calculator) |
 |4| Affirmation |`AutoTest`| [Go](https://github.com/boiledCompose/4_AffirmationApp) |
 |5| Grid App |`Lazy Layout`|[Go](https://github.com/boiledCompose/5_GridView)|
-|6| Woof | |[Go](https://github.com/boiledCompose/6_Woof)|
+|6| Woof |`MaterialTheme3`|[Go](https://github.com/boiledCompose/6_Woof)|
 |7| Woof-Animation | |[Go](https://github.com/boiledCompose/7_AnimatedWoof) |
 |8| Superheroes | |[Go](https://github.com/boiledCompose/8_superheroes)|
 |9| month | |[Go](https://github.com/boiledCompose/9_month)|
