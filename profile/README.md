@@ -14,7 +14,7 @@
 |7| Woof-Animation | `Animation` |[Go](https://github.com/boiledCompose/7_AnimatedWoof) |
 |8| Superheroes |`Scaffold`, `StatusBar`|[Go](https://github.com/boiledCompose/8_superheroes)|
 |9| month | |[Go](https://github.com/boiledCompose/9_month)|
-|10| Dessert Clicker | |[Go](https://github.com/boiledCompose/10_Dessert-Clicker)|
+|10| Dessert Clicker |`Activity Lifecycle`|[Go](https://github.com/boiledCompose/10_Dessert-Clicker)|
 |11| Unscramble | |[Go](https://github.com/boiledCompose/11_Unscramble)|
 |12| Unscramble-Test | |[Go](https://github.com/boiledCompose/12_ScrambleTest)|
 |13| Dessert Clicker 2 | |[Go](https://github.com/boiledCompose/13_Dessert-Clicker2)|
