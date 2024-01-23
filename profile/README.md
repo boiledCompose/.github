@@ -9,7 +9,7 @@
 |2| Lemonade | `ButtonEvent` | [Go](https://github.com/boiledCompose/2_Digital-Lemonade) |
 |3| Tip Calculator| `State`, `State Hoisting` | [Go](https://github.com/boiledCompose/3_Tip-Calculator) |
 |4| Affirmation |`AutoTest`| [Go](https://github.com/boiledCompose/4_AffirmationApp) |
-|5| Grid App | |[Go](https://github.com/boiledCompose/5_GridView)|
+|5| Grid App |`Lazy Layout`|[Go](https://github.com/boiledCompose/5_GridView)|
 |6| Woof | |[Go](https://github.com/boiledCompose/6_Woof)|
 |7| Woof-Animation | |[Go](https://github.com/boiledCompose/7_AnimatedWoof) |
 |8| Superheroes | |[Go](https://github.com/boiledCompose/8_superheroes)|
