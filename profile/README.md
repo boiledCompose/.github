@@ -5,7 +5,7 @@
 | Index | App-Title | Description | Link|
 |:--------:|:--------:|:--------:|:-------:|
 |0| Starting | `Modifier` | [Go](https://github.com/boiledCompose/0_Starting/blob/main/README.md)|
-|1| DiceRoller | `Modifier`, `Remember`| [Go](https://github.com/boiledCompose/1_DiceRoller)|
+|1| DiceRoller | `Remember`| [Go](https://github.com/boiledCompose/1_DiceRoller)|
 |2| Lemonade | `ButtonEvent` | [Go](https://github.com/boiledCompose/2_Digital-Lemonade) |
 |3| Tip Calculator| `State` | [Go](https://github.com/boiledCompose/3_Tip-Calculator) |
 |4| Affirmation | | [Go](https://github.com/boiledCompose/4_AffirmationApp) |
