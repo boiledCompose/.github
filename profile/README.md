@@ -17,7 +17,7 @@
 |10| Dessert Clicker |`Activity Lifecycle`|[Go](https://github.com/boiledCompose/10_Dessert-Clicker)|
 |11| Unscramble |`Application Architecture`|[Go](https://github.com/boiledCompose/11_Unscramble)|
 |12| Unscramble-Test |`Test Strategy`|[Go](https://github.com/boiledCompose/12_ScrambleTest)|
-|13| Dessert Clicker 2 | |[Go](https://github.com/boiledCompose/13_Dessert-Clicker2)|
+|13| Dessert Clicker 2 |`ViewModel`|[Go](https://github.com/boiledCompose/13_Dessert-Clicker2)|
 |14| Cupcake | |[Go](https://github.com/boiledCompose/14_cupcake)|
 |15| Cupcake-Test | |[Go](https://github.com/boiledCompose/15_CupcakeTest)|
 |16| Lunch Tray | |[Go](https://github.com/boiledCompose/16_Lunch-Tray)|
