@@ -22,7 +22,7 @@
 |15| Cupcake-Test | `Navigation`, `Test`|[Go](https://github.com/boiledCompose/15_CupcakeTest)|
 |16| Lunch Tray | `Navigation`|[Go](https://github.com/boiledCompose/16_Lunch-Tray)|
 |17| Coroutine-Theory | `Coroutine` |[Go](https://github.com/boiledCompose/17_coroutine)|
-|18| Race Tracker | |[Go](https://github.com/boiledCompose/18_RaceTracker)|
+|18| Race Tracker |`Coroutine` |[Go](https://github.com/boiledCompose/18_RaceTracker)|
 |19| Mars Photo 1 |`REST`, `Retrofit`|[Go](https://github.com/boiledCompose/19_Mars-Photo)|
 |20| Mars Photo 2| `Data Layer`, `AppContainer`|[Go](https://github.com/boiledCompose/20_MarsPhoto2)|
 |21| Mars Photo 3 | `Coil` |[Go](https://github.com/boiledCompose/21_MarsCoil)|
