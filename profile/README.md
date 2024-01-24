@@ -25,7 +25,7 @@
 |18| Race Tracker |`Coroutine` |[Go](https://github.com/boiledCompose/18_RaceTracker)|
 |19| Mars Photo 1 |`REST`, `Retrofit`|[Go](https://github.com/boiledCompose/19_Mars-Photo)|
 |20| Mars Photo 2| `Data Layer`, `AppContainer`|[Go](https://github.com/boiledCompose/20_MarsPhoto2)|
-|21| Mars Photo 3 | `Coil` |[Go](https://github.com/boiledCompose/21_MarsCoil)|
+|21| Mars Photo 3 | `Coil`, `Image` |[Go](https://github.com/boiledCompose/21_MarsCoil)|
 |22| Amphibians | |[Go](https://github.com/boiledCompose/22_Amphibians)|
 |23| Bookshelf | |[Go](https://github.com/boiledCompose/23_Bookshelf)|
 |24| Inventory | `Room` |[Go](https://github.com/boiledCompose/24_Inventory)|
