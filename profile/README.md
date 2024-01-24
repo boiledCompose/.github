@@ -19,8 +19,8 @@
 |12| Unscramble-Test |`Test Strategy`|[Go](https://github.com/boiledCompose/12_ScrambleTest)|
 |13| Dessert Clicker 2 |`ViewModel`|[Go](https://github.com/boiledCompose/13_Dessert-Clicker2)|
 |14| Cupcake |`Navigation`, `Intent`|[Go](https://github.com/boiledCompose/14_cupcake)|
-|15| Cupcake-Test | |[Go](https://github.com/boiledCompose/15_CupcakeTest)|
-|16| Lunch Tray | |[Go](https://github.com/boiledCompose/16_Lunch-Tray)|
+|15| Cupcake-Test | `Navigation`, `Test`|[Go](https://github.com/boiledCompose/15_CupcakeTest)|
+|16| Lunch Tray | `Navigation`|[Go](https://github.com/boiledCompose/16_Lunch-Tray)|
 |17| Coroutine-Theory | `Coroutine` |[Go](https://github.com/boiledCompose/17_coroutine)|
 |18| Race Tracker | |[Go](https://github.com/boiledCompose/18_RaceTracker)|
 |19| Mars Photo 1 |`REST`, `Retrofit`|[Go](https://github.com/boiledCompose/19_Mars-Photo)|
