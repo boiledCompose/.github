@@ -31,3 +31,4 @@
 |24| Inventory | `Room` |[Go](https://github.com/boiledCompose/24_Inventory)|
 |25| Inventory 2 | `Room` |[Go](https://github.com/boiledCompose/25_Invertory-Room)|
 |26| Bus Schedule | `Room` |[Go](https://github.com/boiledCompose/26_BusSchedule)|
+|27| Blur-O-Matic | `WorkManager` |[Go](https://github.com/boiledCompose/27_BlurOMatic)|
